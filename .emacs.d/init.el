@@ -35,6 +35,7 @@
  ;; If there is more than one, they won't work right.
  '(default ((t (:inherit autoface-default :strike-through nil :underline nil :slant normal :weight normal :height 120 :width normal :family "monaco"))))
  '(column-marker-1 ((t (:background "red"))))
+ '(custom-comment-tag ((t (:foreground "pink"))))
  '(diff-added ((t (:foreground "cyan"))))
  '(flymake-errline ((((class color) (background light)) (:background "Red"))))
  '(font-lock-comment-face ((((class color) (min-colors 8) (background light)) (:foreground "red"))))
